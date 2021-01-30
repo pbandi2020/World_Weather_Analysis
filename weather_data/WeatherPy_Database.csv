@@ -1,0 +1,6 @@
+City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Current Description
+0,Kidal,18.4411,1.4078,81.23,13,43,4.74,ML,scattered clouds
+1,Upernavik,72.7868,-56.1549,-9.78,86,2,7.78,GL,clear sky
+2,Poltava,49.5937,34.5407,35.58,98,100,11.52,UA,moderate rain
+3,Jamestown,42.097,-79.2353,25.0,79,90,4.9,US,light snow
+4,Ushuaia,-54.8,-68.3,51.8,62,20,27.63,AR,few clouds
