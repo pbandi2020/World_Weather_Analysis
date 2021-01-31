@@ -6,8 +6,8 @@ This project focused on API calls, accessing JSON files and building a geographi
 # Results
 
 <img src=/Vacation_Search/WeatherPy_Vacation_map.png alt="Vacation Search"/>
-<img src=/Vacation_Itinenary/WeatherPy_travel_map.png alt="Direction Layer"/>
-<img src=/Vacation_Itinenary/WeatherPy_travel_map_markers.png alt="InfoBox"/>
+<img src=/Vacation_Itinerary/WeatherPy_travel_map.png alt="Direction Layer"/>
+<img src=/Vacation_Itinerary/WeatherPy_travel_map_markers.png alt="InfoBox"/>
 
                             
 ### Summary
