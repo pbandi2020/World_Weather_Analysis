@@ -4,6 +4,7 @@ This project focused on API calls, accessing JSON files and building a geographi
   
 
 # Results
+## Below are the three geogrphical layers we created as part of this project.
 
 <img src=/Vacation_Search/WeatherPy_Vacation_map.png alt="Vacation Search"/>
 <img src=/Vacation_Itinerary/WeatherPy_travel_map.png alt="Direction Layer"/>
